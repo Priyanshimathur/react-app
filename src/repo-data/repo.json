@@ -1,0 +1,44 @@
+[   
+    {
+        "name": "Angular",
+        "link":  "https://github.com/angular/angular",
+        "avatar_url": "./assets/angular.png",
+        "user": "Angular"
+    },
+    {
+        "name": "Bitcoin",
+        "link":  "https://github.com/bitcoin/bitcoin",
+        "avatar_url": "./assets/bitcoin.png",
+        "user": "Bitcoin"
+    },
+    {
+        "name": "Docker",
+        "link": "https://github.com/docker/docker",
+        "avatar_url": "./assets/docker.png",
+        "user": "Docker"
+    },
+    {
+        "name": "Git",
+        "link":  "https://github.com/git/git",
+        "avatar_url": "./assets/git.png",
+        "user": "Git"
+    },
+    {
+        "name": "Jupyter",
+        "link":  "https://github.com/jupyter/jupyter",
+        "avatar_url": "./assets/jupyter.png",
+        "user": "Jupyter"
+    },
+    {
+        "name": "React",
+        "link":  "https://github.com/facebook/react",
+        "avatar_url": "./assets/react.png",
+        "user": "Facebook"
+    },
+    {
+        "name": "VS Code",
+        "link":  "https://github.com/microsoft/vscode",
+        "avatar_url": "./assets/vscode.png",
+        "user": "Microsoft"
+    }
+]
